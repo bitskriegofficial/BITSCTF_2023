@@ -1,0 +1,17 @@
+{
+  "name": "supreme_browser",
+  "version": "1.0.0",
+  "description": "creating browser with headers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KP",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "geoip-country": "^4.1.45",
+    "nodemon": "^2.0.20"
+  }
+}
