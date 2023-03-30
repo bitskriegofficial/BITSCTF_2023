@@ -1,0 +1,2 @@
+The question gave the hint of 'Tupper' and that it involved math and the cartesian plane.
+A google search would lead to finding Tupper's self-referential formula, where you can find the flag on y=k to y=k+17 on the plot of the formula. [This](https://keelyhill.github.io/tuppers-formula/) can plot the graph according to k.

@@ -1,0 +1,1 @@
+The question gave a hint of 'Mime spam'. A simple google search would lead to [Spam Mimic](https://www.spammimic.com/decode.shtml), where you can decode the message in spam.txt.

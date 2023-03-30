@@ -1,0 +1,1 @@
+Tupper the artist, likes to paint stuff virtually but he is poor. Luckily, he loves math and found a way to paint on the cartiesian plane. Find his latest artwork. Ignore spaces in flag. Make sure to wrap the flag in BITSCTF{}
