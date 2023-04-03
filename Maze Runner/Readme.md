@@ -7,4 +7,5 @@ Exiftools on portal indicate it being a jpg. Opening the portal reveals a door s
 Extracting goat.zip gives us a video (thought you might need some motivation). Binwalking this video takes us to a lot of images one of which is named 'Respect++' and holds our flag(the correct one)
 
 On a side note - The maze is pretty interesting and if you found the flag walking the right path all the way you'll miss out on a couple of things (fun things or annoying things? ;] ). So it'll probably be fun getting lost through the maze laughing and crying along the way with all the dumb, funny, knowledgable or 'pleasurable' things. Although I must tell you, if you really choose to wander the maze not looking for the flag and just for exploration, you'll need a lot of time and patience to explore it all.
+
 Made by - Hridya05
