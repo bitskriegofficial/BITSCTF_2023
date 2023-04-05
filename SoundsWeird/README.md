@@ -7,7 +7,7 @@ Anakin01 knows that perseverance is the key to success in cracking such codes.He
 
 ## Solution
 
-The decription suggests that LSB stegnography may have been used to encrypt some hidden messae in the wav file.We then write a simple pythn LSB decryption Script
+The decription suggests that LSB stegnography may have been used to encrypt some hidden messae in the wav file.We then write a simple python LSB decryption Script
 
 ```
 
